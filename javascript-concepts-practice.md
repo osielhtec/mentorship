@@ -499,7 +499,7 @@ https://developer.mozilla.org/en-US/docs/Glossary/Deep_copy
 
 ## Video
 
-https://www.youtube.com/watch?v=OQpfTWv9e6M
+https://www.youtube.com/watch?v=MzKHrWCymAU
 
 ## Practice task
 
