@@ -684,7 +684,7 @@ https://developer.mozilla.org/en-US/docs/Glossary/Pure_function
 
 ## Video
 
-https://www.youtube.com/watch?v=dZ41yN2gLsM
+https://www.youtube.com/watch?v=fYbhD_KMCOg
 
 ## Practice task
 
