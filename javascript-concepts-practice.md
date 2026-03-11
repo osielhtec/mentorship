@@ -380,7 +380,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_prot
 
 ## Video
 
-https://www.youtube.com/watch?v=2LCo926NFLI
+https://www.youtube.com/watch?v=2oU-DfdWM0c
 
 ## Practice task
 
