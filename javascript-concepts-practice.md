@@ -213,7 +213,7 @@ https://javascript.info/method-chaining
 
 ## Video
 
-https://www.youtube.com/watch?v=6oY0xJ1YHk0
+https://www.youtube.com/watch?v=J4YhlDsNqeE
 
 ## Practice task
 
