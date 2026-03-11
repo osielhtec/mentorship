@@ -586,7 +586,7 @@ https://developer.mozilla.org/en-US/docs/Glossary/Callback_function
 
 ## Video
 
-https://www.youtube.com/watch?v=6bFoFGpY9Vo
+https://www.youtube.com/watch?v=i2SPq-nb3NQ
 
 ## Practice task
 
