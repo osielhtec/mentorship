@@ -85,7 +85,7 @@ obj2.name = "Mike"
 
 ## Learn more
 
-https://developer.mozilla.org/en-US/docs/Glossary/Primitive
+https://dev-aditya.medium.com/pass-by-value-and-pass-by-reference-in-javascript-7b4b3d59f629
 
 ## Video
 
@@ -102,7 +102,7 @@ changes.
 
 ------------------------------------------------------------------------
 
-# Object Configuration
+# Object configuration (configurable, enumerable, writable...)
 
 ## Quick doc
 
@@ -125,7 +125,7 @@ Object.defineProperty(obj, "name", {
 
 ## Learn more
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty
+https://medium.com/@shrijan00003/javascript-object-properties-writable-enumerable-configurable-eced27378256
 
 ## Video
 
@@ -209,7 +209,7 @@ class Calculator {
 
 ## Learn more
 
-https://javascript.info/method-chaining
+https://medium.com/@matt.collins/chainable-methods-in-javascript-7543f07a10d4
 
 ## Video
 
@@ -266,7 +266,7 @@ arr.push(3)
 
 ## Learn more
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+https://www.w3schools.com/js/js_array_methods.asp
 
 ## Video
 
@@ -344,6 +344,7 @@ Key parts:
 
 ## Learn more
 
+https://dev.to/buildwithgagan/javascript-event-loop-explained-a-beginners-guide-with-examples-4kae
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop
 
 ## Video
@@ -376,6 +377,7 @@ Returning:
 
 ## Learn more
 
+https://medium.com/@akashsdas_dev/generators-and-iterators-in-javascript-68e66fa77faa
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols
 
 ## Video
@@ -411,6 +413,7 @@ const newArr = [...arr, 3]
 ## Learn more
 
 https://developer.mozilla.org/en-US/docs/Glossary/Immutable
+https://www.freecodecamp.org/news/mutability-vs-immutability-in-javascript/#:~:text=Mutability%20refers%20to%20data%20types,still%20access%20in%20the%20memory.
 
 ## Video
 
@@ -439,6 +442,7 @@ JavaScript moves declarations to the top of scope during compilation.
 ## Learn more
 
 https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
+https://dev.to/hpouyanmehr/hoising-in-javascript-1gp7
 
 ## Video
 
@@ -467,6 +471,7 @@ Example:
 ## Learn more
 
 https://developer.mozilla.org/en-US/docs/Glossary/IIFE
+https://dev.to/onurhandtr/javascript-iife-a-complete-guide-to-immediately-invoked-function-expressions-3ghd
 
 ## Video
 
@@ -496,6 +501,7 @@ const deep = structuredClone(obj)
 ## Learn more
 
 https://developer.mozilla.org/en-US/docs/Glossary/Deep_copy
+https://www.freecodecamp.org/news/copying-stuff-in-javascript-how-to-differentiate-between-deep-and-shallow-copies-b6d8c1ef09cd/
 
 ## Video
 
@@ -519,7 +525,7 @@ Examples include map, filter and reduce.
 
 ## Learn more
 
-https://developer.mozilla.org/en-US/docs/Glossary/Higher-order_function
+https://www.freecodecamp.org/news/higher-order-functions-in-javascript-explained/
 
 ## Video
 
@@ -550,6 +556,7 @@ function factorial(n){
 ## Learn more
 
 https://developer.mozilla.org/en-US/docs/Glossary/Recursion
+https://www.freecodecamp.org/news/recursion-in-javascript/
 
 ## Video
 
@@ -583,6 +590,7 @@ setTimeout(()=>{
 ## Learn more
 
 https://developer.mozilla.org/en-US/docs/Glossary/Callback_function
+https://javascript.info/callbacks
 
 ## Video
 
@@ -620,7 +628,8 @@ function memoize(fn){
 
 ## Learn more
 
-https://developer.mozilla.org/en-US/docs/Glossary/Memoization
+https://www.freecodecamp.org/news/memoization-in-javascript-and-react/
+https://dev.to/jeremydmarx813/create-a-memoized-function-in-javascript-43pi
 
 ## Video
 
@@ -649,6 +658,8 @@ regex.test("Hello world")
 ## Learn more
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions
+https://medium.com/@erickzanetti/complete-guide-to-regular-expressions-in-javascript-4f9c0eb248bb
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet
 
 ## Video
 
@@ -680,7 +691,7 @@ function add(a,b){
 
 ## Learn more
 
-https://developer.mozilla.org/en-US/docs/Glossary/Pure_function
+https://www.telerik.com/blogs/pure-functions-side-effects-javascript
 
 ## Video
 
