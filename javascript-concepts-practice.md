@@ -470,7 +470,7 @@ https://developer.mozilla.org/en-US/docs/Glossary/IIFE
 
 ## Video
 
-https://www.youtube.com/watch?v=3cbiZV6F6F0
+https://www.youtube.com/watch?v=3cbiZV4H22c
 
 ## Practice task
 
