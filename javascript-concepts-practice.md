@@ -129,7 +129,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 ## Video
 
-https://www.youtube.com/watch?v=4RZ4cV4sE9U
+https://www.youtube.com/watch?v=LD1tQEWsjz4
 
 ## Practice task
 
