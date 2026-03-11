@@ -624,7 +624,7 @@ https://developer.mozilla.org/en-US/docs/Glossary/Memoization
 
 ## Video
 
-https://www.youtube.com/watch?v=pYLD0wK6y5o
+https://www.youtube.com/watch?v=TWUV_LRVX24
 
 ## Practice task
 
